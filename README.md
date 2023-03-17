@@ -1,7 +1,9 @@
-# ejemplo-basico-pyautogui
+# Ejemplo básico de pyautogui
 
-Para más información sobre este repositorio por favor visiten el artículo en Codelio [Controla el mouse y teclado para automatizar procesos con Python y la librería PyAutoGUI - Parte 1](https://codel.io/controla-el-mouse-y-teclado-para-automatizar-procesos-con-python-y-la-libreria-pyautogui-parte-1/)
+Ejemplo de uso de la librería de Python pyautogui.
 
-Tiene las siguientes dependencias en Python:
+Para más información sobre este repositorio por favor visita el artículo en Codelio [Controla el mouse y teclado para automatizar procesos con Python y la librería PyAutoGUI - Parte 1](https://codel.io/controla-el-mouse-y-teclado-para-automatizar-procesos-con-python-y-la-libreria-pyautogui-parte-1/)
 
--   pyautogui
+Dependencias:
+
+-   pyautogui _(Python)_
